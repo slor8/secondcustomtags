@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Welcome Message Second Tag Exercise</short-name>
+    <uri>http://slor8.com/secondtags</uri>
+    <tag>
+        <name>Welcome</name>
+        <tag-class>com.slor8.secondcustomtags.WelcomeMessage</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
